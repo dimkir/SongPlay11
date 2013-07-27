@@ -14,6 +14,9 @@
 final String pathGlobalDefault = "D://Musik//";
 final String pathGlobalHome    = "D://Musik//Adele//";
 
+final String pathGlobalDefault = "C:\\Users\\Ernesto Guevara\\Music\\";
+final String pathGlobalHome    = "C://Users//Ernesto Guevara//Music//";
+
 // show song list / show information of one song 
 boolean showSongList = false;  // list or meta
 boolean showFFT      = true;   // show fft yes/no  
