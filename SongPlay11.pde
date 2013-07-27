@@ -11,8 +11,8 @@
 // make your changes here 
 // enter your music path here
 //            pathGlobalDefault: set path or use "" to use data path of the sketch  
-final String pathGlobalDefault = "D://Musik//";
-final String pathGlobalHome    = "D://Musik//Adele//";
+//final String pathGlobalDefault = "D://Musik//";
+//final String pathGlobalHome    = "D://Musik//Adele//";
 
 final String pathGlobalDefault = "C:\\Users\\Ernesto Guevara\\Music\\";
 final String pathGlobalHome    = "C://Users//Ernesto Guevara//Music//";
